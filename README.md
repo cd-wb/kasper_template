@@ -1,4 +1,6 @@
-# Kasper template HTML & CSS learning
+# Learning Design
+
+## Kasper template HTML & CSS learning
 
 Transforme  design to a responsive webpage with HTML and CSS.
 
